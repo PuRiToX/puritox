@@ -5,7 +5,8 @@
 🎓 **Studying**: Cybersecurity Engineering @ University of Informatics Sciences  
 💻 **Focus**: Pentesting | Cryptography | Security Applications Development  
 
-**Tech Toolkit** 🛠️  
+**Tech Toolkit** 🛠️
+
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
