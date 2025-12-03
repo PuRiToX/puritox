@@ -1,5 +1,5 @@
 ### ¡Hello there! 👋 I'm Puritox  
-**Cybersecurity Student** 🔒 | **Python Developer** 🐍 | **Frontend Enthusiast** 🌐  
+**Cybersecurity Student** 🔒 | **Python Developer** 🐍 | **Backend Enthusiast** 🌐  
 
 📍 **From**: Havana, Cuba  
 🎓 **Studying**: Cybersecurity Engineering @ University of Informatics Sciences  
