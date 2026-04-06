@@ -2,7 +2,7 @@
 **Cybersecurity Student** 🔒 | **Python Developer** 🐍 | **Backend Enthusiast** 🌐  
 
 📍 **From**: Havana, Cuba  
-🎓 **Studying**: Cybersecurity Engineering @ University of Informatics Sciences  
+🎓 **Studying**: Cybersecurity Engineering @ University of Computer Sciences  
 💻 **Focus**: Pentesting | Cryptography | Security Applications Development  
 
 **Tech Toolkit** 🛠️
